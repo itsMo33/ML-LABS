@@ -26,11 +26,11 @@ The model successfully grouped customers into different segments based on their 
 
 ## Files
 
-```text
-├── 02-Credit_Card_Customer_Segmentation_Assignment.ipynb
-├── CC_GENERAL.csv
-└── README.md
-```
+    text
+    02-Credit_Card_Customer_Segmentation_Assignment.ipynb
+    CC_GENERAL.csv
+    README.md
+
 
 ## Author
 
